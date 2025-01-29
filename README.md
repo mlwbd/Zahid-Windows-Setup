@@ -17,18 +17,13 @@ description: >-
    * [Customizing Windows](./#id-12-customizing-windows)
    * [Ghost Toolbox Utilities](./#id-13-ghost-toolbox-utilities)
 2. [Setting Up Software](./#id-2-setting-up-software)
-
-* [Installing from Ghost Toolbox](./#id-2.1-installing-from-ghost-toolbox)
-* [Installing from Microsoft Store](./#id-2.2-installing-from-microsoft-store)
-* [Installing from Other Sources](./#id-2.3-installing-from-other-sources)
-
+   * [Installing from Ghost Toolbox](./#id-2.1-installing-from-ghost-toolbox)
+   * [Installing from Microsoft Store](./#id-2.2-installing-from-microsoft-store)
+   * [Installing from Other Sources](./#id-2.3-installing-from-other-sources)
 3. [Setting Up Browser](./#id-3-setting-up-browser-extensions)
 4. [Setting Up Android](./#4-setting-up-android)
 
 </details>
-
-* [Network and Region Sett](./#id-12-network-and-region-settings)
-
 ***
 
 ## 1️⃣ Installing Windows <a href="#id-1-installing-windows" id="id-1-installing-windows"></a>
