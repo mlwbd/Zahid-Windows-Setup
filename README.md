@@ -15,18 +15,19 @@ description: >-
 1. [Installing Windows](./#1-installing-windows)
    * [Downloading Windows](./#id-11-downloading-windows)
    * [Customizing Windows](./#id-12-customizing-windows)
-   * [General Customizations](./#id-12-general-customizations)
-   * [Remove Legacy Software](./#id-12-remove-legacy-software)
-   * [UI Preferences](./#id-12-ui-preferences)
-   * [Power Settings](./#id-12-power-settings)
-   * [Network and Region Settings](./#id-12-network-and-region-settings)
-   * [Other Settings](./#id-12-other-settings)
    * [Ghost Toolbox Utilities](./#id-13-ghost-toolbox-utilities)
 2. [Setting Up Software](./#id-2-setting-up-software)
-3. [Setting Up Browser Extensions](./#id-3-setting-up-browser-extensions)
+
+* [Installing from Ghost Toolbox](./#id-2.1-installing-from-ghost-toolbox)
+* [Installing from Microsoft Store](./#id-2.2-installing-from-microsoft-store)
+* [Installing from Other Sources](./#id-2.3-installing-from-other-sources)
+
+3. [Setting Up Browser](./#id-3-setting-up-browser-extensions)
 4. [Setting Up Android](./#4-setting-up-android)
 
 </details>
+
+* [Network and Region Sett](./#id-12-network-and-region-settings)
 
 ***
 
