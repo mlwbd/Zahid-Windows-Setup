@@ -6,7 +6,7 @@ description: >-
 
 # 💻Windows Setup💻
 
-## 📋 Table of Contents
+📋 Table of Contents
 
 <details>
 
@@ -240,6 +240,32 @@ description: >-
 ### <mark style="color:green;">2.4 - Customizing Software Settings</mark>
 
 > _Most software settings are user-specific and straightforward to configure. Detailed setup instructions can typically be found on the respective software's official website._
+
+
+
+<details>
+
+<summary>Notpad</summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
 
 ***
 
