@@ -12,12 +12,6 @@ description: >-
 
 <summary>Click to Expand Table of Contents</summary>
 
-## 📋 Table of Contents
-
-<details>
-
-<summary>Click to Expand Table of Contents</summary>
-
 1. [Installing Windows](#installing-windows)
    * [Downloading Windows](#downloading-windows)
    * [Customizing Windows](#customizing-windows)
@@ -29,11 +23,11 @@ description: >-
      * [Other Settings](#other-settings)
      * [Ghost Toolbox Utilities](#ghost-toolbox-utilities)
 2. [Setting Up Software](#setting-up-software)
+   * [Installing from Ghost Toolbox](#installing-from-ghost-toolbox)
+   * [Installing from Microsoft Store](#installing-from-microsoft-store)
+   * [Installing from Other Sources](#installing-from-other-sources)
 3. [Setting Up Browser Extensions](#setting-up-browser-extensions)
 4. [Setting Up Android](#setting-up-android)
-
-</details>
-
 
 </details>
 
@@ -41,7 +35,7 @@ description: >-
 
 ## 1️⃣ Installing Windows
 
-### 1.1 - Downloading Windows
+### [1.1 - Downloading Windows](#downloading-windows)
 
 1. **Download a Custom Windows Build**
    * Visit [Ghost Spectre](https://ghostclouds.xyz/wp/w11-24h2-pro/) for a lightweight, customizable Windows version.
@@ -55,21 +49,11 @@ description: >-
    * For upgrades: Retain files and apps, then clean up old installations.
      * Go to **Disk Cleanup** → Select **C Drive** → **Clean Up System Files** → Delete **Old Windows Installation**.
 
-<details>
-
-<summary>📸 Screenshots</summary>
-
-![Alt text](https://imgur.com/3NWJxxf.png)\
-![Alt text](https://imgur.com/clGR79b.png)\
-![Alt text](https://imgur.com/KmzNUJ2.png)
-
-</details>
-
 ***
 
-### 1.2 - Customizing Windows
+### [1.2 - Customizing Windows](#customizing-windows)
 
-#### General Customizations
+#### [General Customizations](#general-customizations)
 
 * Use a **Local Account** instead of a Microsoft Account for faster login.
 * Activate Windows:
@@ -81,7 +65,7 @@ description: >-
 * Restore Drivers: Use Iobit Driver Booster. Update touchpad or display drivers if needed.
   * **For Touchpad Issues**: Update **Synoptic Touchpad** via Microsoft Store.
 
-#### Remove Legacy Software
+#### [Remove Legacy Software](#remove-legacy-software)
 
 * Remove outdated software (e.g., Paint, Media Player) via:
   * **Settings** → **Apps** → **Optional Features**.
@@ -91,43 +75,23 @@ description: >-
       Disable-WindowsOptionalFeature -Online -FeatureName "WindowsMediaPlayer" -NoRestart
       ```
 
-#### UI Preferences
+#### [UI Preferences](#ui-preferences)
 
 * **Set Default View**: Change File Explorer view to **This PC**.
 * **Turn Off Bitlocker**: Disable Bitlocker on drives to avoid encryption issues.
 * **Taskbar Alignment**: Align the taskbar to the left.
 
-#### Power Settings
+#### [Power Settings](#power-settings)
 
 * Customize **Lid & Power Button Controls** to suit your needs.
 
-<details>
-
-<summary>📸 Screenshots</summary>
-
-![Alt text](https://imgur.com/9fQf7AX.png)\
-![Alt text](https://imgur.com/CL5N7yH.png)\
-![Alt text](https://imgur.com/B7xY3VD.png)\
-![Alt text](https://imgur.com/1fO2NmH.png)
-
-</details>
-
-#### Network and Region Settings
+#### [Network and Region Settings](#network-and-region-settings)
 
 * Enable **Metered Connection** for Wi-Fi to limit background data usage.
 * Change **Language & Region** to **English (India)**.
 * Switch **Date & Time Format** to a 12-hour clock.
 
-<details>
-
-<summary>📸 Screenshots</summary>
-
-![Alt text](https://imgur.com/JXWvF9U.png)\
-![Alt text](https://imgur.com/NMWyoeI.png)
-
-</details>
-
-#### Other Settings
+#### [Other Settings](#other-settings)
 
 * Turn off **Game Bar** and unnecessary startup programs.
 * Enable and update **Virus & Threat Protection**.
@@ -135,116 +99,53 @@ description: >-
 
 ***
 
-### 1.3 - Ghost Toolbox Utilities
+### [1.3 - Ghost Toolbox Utilities](#ghost-toolbox-utilities)
 
 1. Install essential components:
    * **Visual C++ Redistributables AIO** and **DirectX**.
 2. Set up **Windows Recovery**.
 
-<details>
+***
 
-<summary>📸 Screenshots</summary>
+## 2️⃣ [Setting Up Software](#setting-up-software)
 
-![Alt text](https://imgur.com/sNDlnfe.png)\
-![Alt text](https://imgur.com/wP7gz44.png)\
-![Alt text](https://imgur.com/n1i5c3G.png)\
-![Alt text](https://imgur.com/LXtIlcR.png)\
-![Alt text](https://imgur.com/PS8u0Kt.png)
+### [2.1 - Installing from Ghost Toolbox](#installing-from-ghost-toolbox)
 
-</details>
-
-3. Turn off Search Highlights
-
-![Alt text](https://imgur.com/7P9xzpe.png)\
-![Alt text](https://imgur.com/bW6U9KV.png)\
-![Alt text](https://imgur.com/EVXdfti.png)
-
-#### Additional Resources
-
-* **Disk Partitioning**: Use [DiskBenchmark](https://www.diskgenius.com/free.php).
-* **Fix Real-time Protection Issues**: [Watch Guide](https://www.youtube.com/watch?v=B22FMrO-vYM).
-* **Reset Password or PIN**: [Watch Guide](https://www.youtube.com/watch?v=-0crAEE-6hA).
-* **Identify Drivers Causing Blue Screens**: [Watch Guide](https://www.youtube.com/watch?v=Dw266cVGXic).
+* Install MS Store, Calculator, Photos, Paint, Snip & Sketch, Sticky Notes, Telegram.
+* Install Browsers: Chrome, Mozilla, Edge.
+* Install **Nilesoft Shell** (Fixing Right Click Menu) & Choose Dark or Ghost Configs.
 
 ***
 
-## 2️⃣ Setting Up Software
+### [2.2 - Installing from Microsoft Store](#installing-from-microsoft-store)
 
-### 2.1 - Installing from Ghost Toolbox
-
-* Install MS- Store, Calculator, Photos , Paint, Snip & Sketch , Sticky Notes, Telegram ![Alt text](https://imgur.com/7YmOo34.png)
-* Install Browser
-* Chrome/Mozilla/Edge (Install Webview its necessary for some microsoft features, also remove edge if you want)
-
-<details>
-
-<summary>📸 Screenshots</summary>
-
-![Alt text](https://imgur.com/OIPzZd1.png)\
-![Alt text](https://imgur.com/D2Lh7A8.png)\
-![Alt text](https://imgur.com/Ber3MVF.png)
-
-</details>
-
-* Install Nilesoft Shell (Fixing Right Click Menu) & Choose Dark or Ghost Configs
-
-<details>
-
-<summary>📸 Screenshots</summary>
-
-!\[Alt text]\(https://imgur.com/A2iwJnQ.png) !\[Alt text]\(https://imgur.com/r2WwynK.png) !\[Alt text]\(https://imgur.com/WZNPOq3.png)
-
-</details>
-
-### 2.2 - Installing from Microsoft Store
-
-1. [Notpad](https://apps.microsoft.com/detail/9MSMLRH6LZF3?hl=en-us\&gl=IN\&ocid=pdpshare)
+1. [Notepad](https://apps.microsoft.com/detail/9MSMLRH6LZF3?hl=en-us\&gl=IN\&ocid=pdpshare)
 2. [Nanazip](https://apps.microsoft.com/detail/9N8G7TSCL18R?hl=en\&gl=IN\&ocid=pdpshare) (for unzip)
 3. [Screenbox](https://apps.microsoft.com/detail/9NTSNMSVCB5L?hl=en-us\&gl=IN\&ocid=pdpshare) (media player)
-4. [ShareX](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-5. [Fluent Search](https://apps.microsoft.com/detail/9NK1HLWHNP8S?hl=en-us\&gl=IN\&ocid=pdpshare) (Launcher)
 
-### 2.3 - Installing from Other Sources
+***
 
-1. [Adb App Control](https://adbappcontrol.com/en/#download) (removing blotware from mobile)
-2. [Anydesk](https://apps.microsoft.com/detail/9N8G7TSCL18R?hl=en\&gl=IN\&ocid=pdpshare) (for remote)
+### [2.3 - Installing from Other Sources](#installing-from-other-sources)
+
+1. [Adb App Control](https://adbappcontrol.com/en/#download) (removing bloatware from mobile)
+2. [Anydesk](https://apps.microsoft.com/detail/9N8G7TSCL18R?hl=en\&gl=IN\&ocid=pdpshare) (for remote access)
 3. [Bulk Crap Uninstaller](https://apps.microsoft.com/detail/9NTSNMSVCB5L?hl=en-us\&gl=IN\&ocid=pdpshare) (Uninstaller)
-4. [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1) (for remote)
-5. [Ezviz Studio](https://support.ezviz.com/download) (for ezviz camera control)
-6. [Everything](https://www.voidtools.com/downloads/) (Search Files)
-7. [Everything Toolbar](https://github.com/srwi/EverythingToolbar) (Everything Search Bar)
-8. [Git](https://git-scm.com/downloads/win) (for version control)
-9. [HTTP Toolit](https://httptoolkit.com/) (for intercepting requests & Response)
-10. Internet Download Manager [IDM from Teamos](https://www.teamos.xyz/search/1848235/?q=internet+download+manager\&o=date) [IDM from Lrepacks](https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html) (for Downloading)
-11. [Adb App Control](https://adbappcontrol.com/en/#download) (removing blotware from mobile)
-12. [Iobit Uninstaller](https://www.teamos.xyz/search/1848240/?q=Iobit+uninstaller\&o=date) (Uninstaller)
-13. [Office Products](https://filecr.com/windows/office-c2r-install/) (Office/PowerPoint/Excel)
-14. [Obsidian](https://remotedesktop.google.com/?pli=1) (for remote)
-15. [PDF Gear](https://support.ezviz.com/download) (for ezviz camera control)
-16. [PoweToys](https://www.voidtools.com/downloads/) (Search Files)
-17. [Python](https://github.com/srwi/EverythingToolbar) (Everything Search Bar)
-18. [Quick Share](https://git-scm.com/downloads/win) (for version control)
-19. [QuickLook](https://httptoolkit.com/) (for intercepting requests & Response)
-20. [Stardock Fences](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-21. [Sumatra PDF](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-22. [Winfsp](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-23. [WinSetView](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-24. [Xender](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-25. [Listary](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-26. [AutoRuns](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-27. [Winfsp](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-28. [WinSetView](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-29. [Xender](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
 
 ***
 
-## 3️⃣ Setting Up Browser Extensions
+## 3️⃣ [Setting Up Browser Extensions](#setting-up-browser-extensions)
+
+1. Install **uBlock Origin** for ad-blocking.
+2. Install **Dark Reader** for dark mode support.
+3. Install **LastPass or Bitwarden** for password management.
 
 ***
 
-## 4️⃣ Setting Up Android
+## 4️⃣ [Setting Up Android](#setting-up-android)
 
-1. Configure Android for syncing with Windows.
-2. Install apps for cross-platform integration.
+1. Configure **Your Phone App** for syncing messages and notifications.
+2. Install apps like **Scrcpy** for screen mirroring.
+3. Use **Adb App Control** to remove bloatware from Android.
 
 ***
+
