@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Zahid's Windows Custom Setup Guide 🌟](README.md)
