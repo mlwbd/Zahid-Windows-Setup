@@ -195,9 +195,8 @@ description: >-
 2. [Nanazip](https://apps.microsoft.com/detail/9N8G7TSCL18R?hl=en\&gl=IN\&ocid=pdpshare) (for unzip)
 3. [Microsoft TODO ](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-US\&gl=US)(todo app)
 4. [PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US\&gl=US) (windows utility)
-5. [Screenbox](https://apps.microsoft.com/detail/9NTSNMSVCB5L?hl=en-us\&gl=IN\&ocid=pdpshare) (media player)
-6. [ShareX](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-7. [Fluent Search](https://apps.microsoft.com/detail/9NK1HLWHNP8S?hl=en-us\&gl=IN\&ocid=pdpshare) (Launcher)
+5. [ShareX](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
+6. [Fluent Search](https://apps.microsoft.com/detail/9NK1HLWHNP8S?hl=en-us\&gl=IN\&ocid=pdpshare) (Launcher)
 
 ### 2.3 - Installing from Other Sources
 
@@ -227,8 +226,6 @@ description: >-
 24. [UniGetUI ](https://github.com/marticliment/UniGetUI)(for Updating Apps)
 25. [Winfsp](https://winfsp.dev/) (File System Proxy)
 26. [WinSetView](https://github.com/LesFerch/WinSetView) (File Explorer Settings)
-
-
 
 ***
 
