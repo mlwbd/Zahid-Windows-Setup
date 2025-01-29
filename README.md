@@ -21,6 +21,7 @@ description: >-
 * &#x20;[Installing from Ghost Toolbox](./#id-2.1-installing-from-ghost-toolbox)
 * [Installing from Microsoft Store](./#id-2.2-installing-from-microsoft-store)
 * [Installing from Other Sources](./#id-2.3-installing-from-other-sources)
+* [Customizing Software Settings](./#id-2.4-customizing-software-settings)
 
 3. [Setting Up Browser](./#id-3-setting-up-browser-extensions)
 4. [Setting Up Android](./#4-setting-up-android)
@@ -226,6 +227,10 @@ description: >-
 24. [UniGetUI ](https://github.com/marticliment/UniGetUI)(for Updating Apps)
 25. [Winfsp](https://winfsp.dev/) (File System Proxy)
 26. [WinSetView](https://github.com/LesFerch/WinSetView) (File Explorer Settings)
+
+### 2.4 - Customizing Software Settings
+
+
 
 ***
 
