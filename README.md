@@ -24,7 +24,6 @@ description: >-
 4. [Setting Up Android](./#4-setting-up-android)
 
 </details>
-***
 
 ## 1️⃣ Installing Windows <a href="#id-1-installing-windows" id="id-1-installing-windows"></a>
 
