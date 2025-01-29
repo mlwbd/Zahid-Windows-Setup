@@ -34,17 +34,24 @@ description: >-
 
 ### <mark style="color:green;">1.1 - Downloading Windows</mark> <a href="#id-11-downloading-windows" id="id-11-downloading-windows"></a>
 
-1. **Download a Custom Windows Build**
-   * Visit [Ghost Spectre](https://ghostclouds.xyz/wp/w11-24h2-pro/) for a lightweight, customizable Windows version.
-   * Extract the downloaded file using the provided password.
-2. **Backup Drivers**
-   * Use [Iobit Driver Booster](https://www.teamos.xyz/search/1847348/?q=iobit+driver+booster\&o=date) to backup drivers.
-3. **Choose the Version**
-   * Opt for the **Pro Compact + Defender** version for optimal performance.
-4. **Fresh Installation or Upgrade**
-   * For fresh installs: Don't worry about data loss; it's stored in the `windows.old` folder (C drive).
-   * For upgrades: Retain files and apps, then clean up old installations.
-     * Go to **Disk Cleanup** → Select **C Drive** → **Clean Up System Files** → Delete **Old Windows Installation**.
+<mark style="color:yellow;">**Download a Custom Windows Build**</mark>
+
+* Visit [Ghost Spectre](https://ghostclouds.xyz/wp/w11-24h2-pro/) for a lightweight, customizable Windows version.
+* Extract the downloaded file using the provided password.
+
+<mark style="color:yellow;">**Backup Drivers**</mark>
+
+* Use [Iobit Driver Booster](https://www.teamos.xyz/search/1847348/?q=iobit+driver+booster\&o=date) to backup drivers.
+
+<mark style="color:yellow;">**Choose the Version**</mark>
+
+* Opt for the **Pro Compact + Defender** version for optimal performance.
+
+<mark style="color:yellow;">**Fresh Installation or Upgrade**</mark>
+
+* For fresh installs: Don't worry about data loss; it's stored in the `windows.old` folder (C drive).
+* For upgrades: Retain files and apps, then clean up old installations.
+  * Go to **Disk Cleanup** → Select **C Drive** → **Clean Up System Files** → Delete **Old Windows Installation**.
 
 <details>
 
@@ -60,7 +67,7 @@ description: >-
 
 ### <mark style="color:green;">1.2 - Customizing Windows</mark> <a href="#id-12-customizing-windows" id="id-12-customizing-windows"></a>
 
-#### General Customizations <a href="#id-12-general-customizations" id="id-12-general-customizations"></a>
+#### <mark style="color:yellow;">General Customizations</mark> <a href="#id-12-general-customizations" id="id-12-general-customizations"></a>
 
 * Use a **Local Account** instead of a Microsoft Account for faster login.
 * Activate Windows:
@@ -72,7 +79,7 @@ description: >-
 * Restore Drivers: Use Iobit Driver Booster. Update touchpad or display drivers if needed.
   * **For Touchpad Issues**: Update **Synoptic Touchpad** via Microsoft Store.
 
-#### Remove Legacy Software <a href="#id-12-remove-legacy-software" id="id-12-remove-legacy-software"></a>
+#### <mark style="color:yellow;">Remove Legacy Software</mark> <a href="#id-12-remove-legacy-software" id="id-12-remove-legacy-software"></a>
 
 * Remove outdated software (e.g., Paint, Media Player) via:
   * **Settings** → **Apps** → **Optional Features**.
@@ -82,13 +89,13 @@ description: >-
       Disable-WindowsOptionalFeature -Online -FeatureName "WindowsMediaPlayer" -NoRestart
       ```
 
-#### UI Preferences <a href="#id-12-ui-preferences" id="id-12-ui-preferences"></a>
+#### <mark style="color:yellow;">UI Preferences</mark> <a href="#id-12-ui-preferences" id="id-12-ui-preferences"></a>
 
 * **Set Default View**: Change File Explorer view to **This PC**.
 * **Turn Off Bitlocker**: Disable Bitlocker on drives to avoid encryption issues.
 * **Taskbar Alignment**: Align the taskbar to the left.
 
-#### Power Settings <a href="#id-12-power-settings" id="id-12-power-settings"></a>
+#### <mark style="color:yellow;">Power Settings</mark> <a href="#id-12-power-settings" id="id-12-power-settings"></a>
 
 * Customize **Lid & Power Button Controls** to suit your needs.
 
@@ -103,7 +110,7 @@ description: >-
 
 </details>
 
-#### Network and Region Settings <a href="#id-12-network-and-region-settings" id="id-12-network-and-region-settings"></a>
+#### <mark style="color:yellow;">Network and Region Settings</mark> <a href="#id-12-network-and-region-settings" id="id-12-network-and-region-settings"></a>
 
 * Enable **Metered Connection** for Wi-Fi to limit background data usage.
 * Change **Language & Region** to **English (India)**.
@@ -118,7 +125,7 @@ description: >-
 
 </details>
 
-#### Other Settings <a href="#id-12-other-settings" id="id-12-other-settings"></a>
+#### <mark style="color:yellow;">Other Settings</mark> <a href="#id-12-other-settings" id="id-12-other-settings"></a>
 
 * Turn off **Game Bar** and unnecessary startup programs.
 * Enable and update **Virus & Threat Protection**.
@@ -128,9 +135,11 @@ description: >-
 
 ### <mark style="color:green;">1.3 - Ghost Toolbox Utilities</mark> <a href="#id-13-ghost-toolbox-utilities" id="id-13-ghost-toolbox-utilities"></a>
 
-1. Install essential components:
-   * **Visual C++ Redistributables AIO** and **DirectX**.
-2. Set up **Windows Recovery**.
+<mark style="color:yellow;">**Install essential components:**</mark>
+
+* **Visual C++ Redistributables AIO** and **DirectX**.
+
+<mark style="color:yellow;">**Set up Windows Recovery:**</mark>
 
 <details>
 
@@ -144,13 +153,13 @@ description: >-
 
 </details>
 
-3. Turn off Search Highlights
+<mark style="color:yellow;">**Turn off Search Highlights:**</mark>
 
 ![Alt text](https://imgur.com/7P9xzpe.png)\
 ![Alt text](https://imgur.com/bW6U9KV.png)\
 ![Alt text](https://imgur.com/EVXdfti.png)
 
-#### Additional Resources
+#### <mark style="color:yellow;">Additional Resources:</mark>
 
 * **Disk Partitioning**: Use [DiskBenchmark](https://www.diskgenius.com/free.php).
 * **Fix Real-time Protection Issues**: [Watch Guide](https://www.youtube.com/watch?v=B22FMrO-vYM).
