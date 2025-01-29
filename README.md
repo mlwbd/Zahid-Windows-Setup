@@ -32,7 +32,7 @@ description: >-
 
 ## 1️⃣ Installing Windows <a href="#id-1-installing-windows" id="id-1-installing-windows"></a>
 
-### 1.1 - Downloading Windows <a href="#id-11-downloading-windows" id="id-11-downloading-windows"></a>
+### <mark style="color:green;">1.1 - Downloading Windows</mark> <a href="#id-11-downloading-windows" id="id-11-downloading-windows"></a>
 
 1. **Download a Custom Windows Build**
    * Visit [Ghost Spectre](https://ghostclouds.xyz/wp/w11-24h2-pro/) for a lightweight, customizable Windows version.
@@ -58,7 +58,7 @@ description: >-
 
 ***
 
-### 1.2 - Customizing Windows <a href="#id-12-customizing-windows" id="id-12-customizing-windows"></a>
+### <mark style="color:green;">1.2 - Customizing Windows</mark> <a href="#id-12-customizing-windows" id="id-12-customizing-windows"></a>
 
 #### General Customizations <a href="#id-12-general-customizations" id="id-12-general-customizations"></a>
 
@@ -126,7 +126,7 @@ description: >-
 
 ***
 
-### 1.3 - Ghost Toolbox Utilities <a href="#id-13-ghost-toolbox-utilities" id="id-13-ghost-toolbox-utilities"></a>
+### <mark style="color:green;">1.3 - Ghost Toolbox Utilities</mark> <a href="#id-13-ghost-toolbox-utilities" id="id-13-ghost-toolbox-utilities"></a>
 
 1. Install essential components:
    * **Visual C++ Redistributables AIO** and **DirectX**.
@@ -161,7 +161,7 @@ description: >-
 
 ## 2️⃣ Setting Up Software <a href="#id-2-setting-up-software" id="id-2-setting-up-software"></a>
 
-### 2.1 - Installing from Ghost Toolbox
+### <mark style="color:green;">2.1 - Installing from Ghost Toolbox</mark>
 
 * Install MS- Store, Calculator, Photos, Paint, Snip & Sketch, Sticky Notes, Telegram\
   ![Alt text](https://imgur.com/7YmOo34.png)
@@ -190,7 +190,7 @@ description: >-
 
 </details>
 
-### 2.2 - Installing from Microsoft Store
+### <mark style="color:green;">2.2 - Installing from Microsoft Store</mark>
 
 1. [Notepad](https://apps.microsoft.com/detail/9MSMLRH6LZF3?hl=en-us\&gl=IN\&ocid=pdpshare)
 2. [Nanazip](https://apps.microsoft.com/detail/9N8G7TSCL18R?hl=en\&gl=IN\&ocid=pdpshare) (for unzip)
@@ -199,7 +199,7 @@ description: >-
 5. [ShareX](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
 6. [Fluent Search](https://apps.microsoft.com/detail/9NK1HLWHNP8S?hl=en-us\&gl=IN\&ocid=pdpshare) (Launcher)
 
-### 2.3 - Installing from Other Sources
+### <mark style="color:green;">2.3 - Installing from Other Sources</mark>
 
 1. [Adb App Control](https://adbappcontrol.com/en/#download) (removing bloatware from mobile)&#x20;
 2. [Anydesk](https://anydesk.com/) (for remote access)
@@ -228,9 +228,9 @@ description: >-
 25. [Winfsp](https://winfsp.dev/) (File System Proxy)
 26. [WinSetView](https://github.com/LesFerch/WinSetView) (File Explorer Settings)
 
-### 2.4 - Customizing Software Settings
+### <mark style="color:green;">2.4 - Customizing Software Settings</mark>
 
-
+> _Most software settings are user-specific and straightforward to configure. Detailed setup instructions can typically be found on the respective software's official website._
 
 ***
 
