@@ -397,7 +397,11 @@ description: >-
 
 ## 4️⃣ Setting Up Android on Windows <a href="#id-4-setting-up-android" id="id-4-setting-up-android"></a>
 
-1. Configure Android for syncing with Windows
-2. Install apps for cross-platform integration
+* WSA build by [MustardChef ](https://github.com/MustardChef/WSABuilds)_(Install KSU with Gapps build)_
+* Installation instructions available on github
+* Google Play Games for PC Custom Build by [MustardChef](https://github.com/MustardChef/GPGPCToolkit) _(Project Still in Progress)_
+* [AOW Tools ](https://apps.microsoft.com/detail/9nxm6552h2ql?hl=en-US\&gl=US)for Installaing APK, File Transfer & Management _(Allow adb in dev options)_
+* [WSA System Control ](https://apps.microsoft.com/detail/9pfctfq8v8c3?hl=en-US\&gl=US)for managing WSA Session
+* Install LawnChair Launcher
 
 ***
