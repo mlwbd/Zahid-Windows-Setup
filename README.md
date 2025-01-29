@@ -4,9 +4,7 @@ description: >-
   with ease. Let's make your Windows experience smoother and more efficient! 🚀
 ---
 
-# 🌟Zahid's Windows Setup🌟
-
-***
+# 💻Windows Setup💻
 
 ## 📋 Table of Contents
 
@@ -34,7 +32,7 @@ description: >-
 
 ## 1️⃣ Installing Windows
 
-### 🖥️ Downloading Windows
+### 1.1 - Downloading Windows
 
 1. **Download a Custom Windows Build**
    * Visit [Ghost Spectre](https://ghostclouds.xyz/wp/w11-24h2-pro/) for a lightweight, customizable Windows version.
@@ -60,7 +58,7 @@ description: >-
 
 ***
 
-### 🎨 Customizing Windows
+### 1.2 - Customizing Windows
 
 #### General Customizations
 
@@ -128,7 +126,7 @@ description: >-
 
 ***
 
-### 🛠️ Ghost Toolbox Utilities
+### 1.3 - Ghost Toolbox Utilities
 
 1. Install essential components:
    * **Visual C++ Redistributables AIO** and **DirectX**.
@@ -163,7 +161,7 @@ description: >-
 
 ## 2️⃣ Setting Up Software
 
-### Installing from Ghost Toolbox
+### 2.1 - Installing from Ghost Toolbox
 
 * Install MS- Store, Calculator, Photos , Paint, Snip & Sketch , Sticky Notes, Telegram ![Alt text](https://imgur.com/7YmOo34.png)
 * Install Browser
@@ -189,7 +187,7 @@ description: >-
 
 </details>
 
-### Installing from Microsoft Store
+### 2.2 - Installing from Microsoft Store
 
 1. [Notpad](https://apps.microsoft.com/detail/9MSMLRH6LZF3?hl=en-us\&gl=IN\&ocid=pdpshare)
 2. [Nanazip](https://apps.microsoft.com/detail/9N8G7TSCL18R?hl=en\&gl=IN\&ocid=pdpshare) (for unzip)
@@ -197,7 +195,7 @@ description: >-
 4. [ShareX](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
 5. [Fluent Search](https://apps.microsoft.com/detail/9NK1HLWHNP8S?hl=en-us\&gl=IN\&ocid=pdpshare) (Launcher)
 
-### Installing from Other Sources
+### 2.3 - Installing from Other Sources
 
 1. [Adb App Control](https://adbappcontrol.com/en/#download) (removing blotware from mobile)
 2. [Anydesk](https://apps.microsoft.com/detail/9N8G7TSCL18R?hl=en\&gl=IN\&ocid=pdpshare) (for remote)
