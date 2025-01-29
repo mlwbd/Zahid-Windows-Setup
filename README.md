@@ -12,19 +12,28 @@ description: >-
 
 <summary>Click to Expand Table of Contents</summary>
 
-1. [Installing Windows](broken-reference)
-   * [Downloading Windows](broken-reference)
-   * [Customizing Windows](broken-reference)
-     * [General Customizations](broken-reference)
-     * [Remove Legacy Software](broken-reference)
-     * [UI Preferences](broken-reference)
-     * [Power Settings](broken-reference)
-     * [Network and Region Settings](broken-reference)
-     * [Other Settings](broken-reference)
-     * [Ghost Toolbox Utilities](broken-reference)
-2. [Setting Up Software](broken-reference)
-3. [Setting Up Browser Extensions](broken-reference)
-4. [Setting Up Android](broken-reference)
+## 📋 Table of Contents
+
+<details>
+
+<summary>Click to Expand Table of Contents</summary>
+
+1. [Installing Windows](#installing-windows)
+   * [Downloading Windows](#downloading-windows)
+   * [Customizing Windows](#customizing-windows)
+     * [General Customizations](#general-customizations)
+     * [Remove Legacy Software](#remove-legacy-software)
+     * [UI Preferences](#ui-preferences)
+     * [Power Settings](#power-settings)
+     * [Network and Region Settings](#network-and-region-settings)
+     * [Other Settings](#other-settings)
+     * [Ghost Toolbox Utilities](#ghost-toolbox-utilities)
+2. [Setting Up Software](#setting-up-software)
+3. [Setting Up Browser Extensions](#setting-up-browser-extensions)
+4. [Setting Up Android](#setting-up-android)
+
+</details>
+
 
 </details>
 
