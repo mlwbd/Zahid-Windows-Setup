@@ -1,3 +1,4 @@
 # Table of contents
 
-* [🌟Zahid's Windows Setup🌟](README.md)
+* [💻Windows Setup💻](README.md)
+* [📱Android Setup📱](android-setup.md)
