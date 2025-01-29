@@ -193,42 +193,40 @@ description: >-
 
 1. [Notepad](https://apps.microsoft.com/detail/9MSMLRH6LZF3?hl=en-us\&gl=IN\&ocid=pdpshare)
 2. [Nanazip](https://apps.microsoft.com/detail/9N8G7TSCL18R?hl=en\&gl=IN\&ocid=pdpshare) (for unzip)
-3. [Screenbox](https://apps.microsoft.com/detail/9NTSNMSVCB5L?hl=en-us\&gl=IN\&ocid=pdpshare) (media player)
-4. [ShareX](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
-5. [Fluent Search](https://apps.microsoft.com/detail/9NK1HLWHNP8S?hl=en-us\&gl=IN\&ocid=pdpshare) (Launcher)
+3. [Microsoft TODO ](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-US\&gl=US)(todo app)
+4. [PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US\&gl=US) (windows utility)
+5. [Screenbox](https://apps.microsoft.com/detail/9NTSNMSVCB5L?hl=en-us\&gl=IN\&ocid=pdpshare) (media player)
+6. [ShareX](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
+7. [Fluent Search](https://apps.microsoft.com/detail/9NK1HLWHNP8S?hl=en-us\&gl=IN\&ocid=pdpshare) (Launcher)
 
 ### 2.3 - Installing from Other Sources
 
 1. [Adb App Control](https://adbappcontrol.com/en/#download) (removing bloatware from mobile)&#x20;
 2. [Anydesk](https://anydesk.com/) (for remote access)
-3. [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) (Uninstaller)
-4. [Chrome Remote Desktop](https://remotedesktop.google.com/) (for remote access)
-5. [Ezviz Studio](https://support.ezviz.com/download) (for camera control)
-6. [Everything](https://www.voidtools.com/) (Search Files)
-7. [Everything Toolbar](https://github.com/srwi/EverythingToolbar) (Search Bar)
-8. [Git](https://git-scm.com/) (version control)
-9. [HTTP Toolkit](https://httptoolkit.com/) (network debugging)
-10. [IDM](https://www.internetdownloadmanager.com/) (Download Manager)
-11. [IObit Uninstaller](https://www.iobit.com/) (Uninstaller)
-12. [Microsoft Office](https://www.office.com/) (Productivity Suite)
-13. [Obsidian](https://obsidian.md/) (Note-taking)
-14. [PDF Gear](https://pdfgear.com/) (PDF Reader)
-15. [PotPlayer ](https://potplayer.daum.net/)(Media Player for m3u8)
-16. [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) (System Utilities)
-17. [Python](https://www.python.org/) (Programming Language)
-18. [QuickLook](https://pooi.moe/QuickLook/) (File Preview)
-19. [Stardock Fences](https://www.stardock.com/products/fences/) (Desktop Organization)
-20. [Sumatra PDF](https://www.sumatrapdfreader.org/) (PDF Reader)
-21. [Winfsp](https://winfsp.dev/) (File System Proxy)
-22. [WinSetView](https://github.com/LesFerch/WinSetView) (File Explorer Settings)
-
-<details>
-
-<summary>Test <a href="https://www.google.com">link</a></summary>
-
-hi test
-
-</details>
+3. [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) (Custom Windows Cursor)
+4. [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) (Uninstaller)
+5. [Chrome Remote Desktop](https://remotedesktop.google.com/) (for remote access)
+6. [Ezviz Studio](https://support.ezviz.com/download) (for camera control)
+7. [Everything](https://www.voidtools.com/) (Search Files)
+8. [Everything Toolbar](https://github.com/srwi/EverythingToolbar) (Search Bar)
+9. [Git](https://git-scm.com/) (version control)
+10. [HTTP Toolkit](https://httptoolkit.com/) (network debugging)
+11. [IDM from TeamOS](https://www.teamos.xyz/search/1848235/?q=internet+download+manager\&o=date) / [IDM from Lrepacks ](https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html)(Download Manager)
+12. [IObit Uninstaller](https://www.teamos.xyz/search/1848240/?q=Iobit+uninstaller\&o=date) (Uninstaller)
+13. [Microsoft Office](https://filecr.com/windows/office-c2r-install/) (Productivity Suite)
+14. [Obsidian](https://obsidian.md/) (Note-taking)
+15. [PDF Gear](https://pdfgear.com/) (PDF Reader)
+16. [PotPlayer ](https://potplayer.daum.net/)(Media Player for m3u8)
+17. [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) (System Utilities)
+18. [Python](https://www.python.org/) (Programming Language)
+19. [Qbittorent ](https://www.qbittorrent.org/download)(Torrent Download)
+20. [QuickShare](https://www.android.com/intl/en_in/better-together/quick-share-app/) (Transfer between Phone & PC)
+21. [QuickLook](https://pooi.moe/QuickLook/) (File Preview)
+22. [Stardock Fences](https://www.teamos.xyz/search/1869120/?q=stardock+fences\&o=date) (Desktop Organization)
+23. [Sumatra PDF](https://www.sumatrapdfreader.org/) (PDF Reader)
+24. [UniGetUI ](https://github.com/marticliment/UniGetUI)(for Updating Apps)
+25. [Winfsp](https://winfsp.dev/) (File System Proxy)
+26. [WinSetView](https://github.com/LesFerch/WinSetView) (File Explorer Settings)
 
 
 
