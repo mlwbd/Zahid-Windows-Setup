@@ -271,7 +271,7 @@ description: >-
 
 <summary>Sharex</summary>
 
-* Settings -> Application Settings -> Settings -> Import [this](https://cdn.jsdelivr.net/gh/mlwbd/Zahid-Windows-Setup@main/Windows%20App%20Settings/ShareX-17.0.0-backup.sxb)
+* Settings -> Application Settings -> Settings -> Import [this](https://raw.githubusercontent.com/mlwbd/Zahid-Windows-Setup/refs/heads/main/Windows%20App%20Settings/ShareX-backup.7z)
 * Change Screenshot Folders to Pictures
 * Add Shortcut to Desktop
 
@@ -383,13 +383,19 @@ description: >-
 
 ***
 
-## 3️⃣ Setting Up Browser Extensions <a href="#id-3-setting-up-browser-extensions" id="id-3-setting-up-browser-extensions"></a>
+## 3️⃣ Setting Up Browser <a href="#id-3-setting-up-browser-extensions" id="id-3-setting-up-browser-extensions"></a>
 
-_(Add your browser extension setup content here)_
+* I prefer _Chrome & Firefox_
+* Setup Sync between mobile & PC for Chrome & Firefox
+* Extension [List ](https://raw.githubusercontent.com/mlwbd/Zahid-Windows-Setup/refs/heads/main/Windows%20App%20Settings/Extension-List.7z)for Chrome & install same for Firefox
+* Use [Proton VPN](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa) for vpn
+* Import [Ublock ](https://raw.githubusercontent.com/mlwbd/Zahid-Windows-Setup/main/Windows%20App%20Settings/ublock-settings.7z)Settings
+* Copy [Paste ](https://raw.githubusercontent.com/mlwbd/Zahid-Windows-Setup/refs/heads/main/Windows%20App%20Settings/Enhancer-for-Youtube.txt)Enhancer for Youtube Settings
+* Userscript [List ](https://raw.githubusercontent.com/mlwbd/Zahid-Windows-Setup/main/Windows%20App%20Settings/violentmonkey.zip)with Settings
 
 ***
 
-## 4️⃣ Setting Up Android <a href="#id-4-setting-up-android" id="id-4-setting-up-android"></a>
+## 4️⃣ Setting Up Android on Windows <a href="#id-4-setting-up-android" id="id-4-setting-up-android"></a>
 
 1. Configure Android for syncing with Windows
 2. Install apps for cross-platform integration
