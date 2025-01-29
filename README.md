@@ -27,6 +27,8 @@ description: >-
 
 </details>
 
+***
+
 ## 1️⃣ Installing Windows <a href="#id-1-installing-windows" id="id-1-installing-windows"></a>
 
 ### 1.1 - Downloading Windows <a href="#id-11-downloading-windows" id="id-11-downloading-windows"></a>
@@ -189,7 +191,7 @@ description: >-
 
 ### 2.2 - Installing from Microsoft Store
 
-1. [Notepad++](https://apps.microsoft.com/detail/9MSMLRH6LZF3?hl=en-us\&gl=IN\&ocid=pdpshare)
+1. [Notepad](https://apps.microsoft.com/detail/9MSMLRH6LZF3?hl=en-us\&gl=IN\&ocid=pdpshare)
 2. [Nanazip](https://apps.microsoft.com/detail/9N8G7TSCL18R?hl=en\&gl=IN\&ocid=pdpshare) (for unzip)
 3. [Screenbox](https://apps.microsoft.com/detail/9NTSNMSVCB5L?hl=en-us\&gl=IN\&ocid=pdpshare) (media player)
 4. [ShareX](https://apps.microsoft.com/detail/9NBLGGH4Z1SP?hl=en-us\&gl=IN\&ocid=pdpshare) (for screenshot & recording)
@@ -197,7 +199,7 @@ description: >-
 
 ### 2.3 - Installing from Other Sources
 
-1. [Adb App Control](https://adbappcontrol.com/en/#download) (removing bloatware from mobile)
+1. [Adb App Control](https://adbappcontrol.com/en/#download) (removing bloatware from mobile)&#x20;
 2. [Anydesk](https://anydesk.com/) (for remote access)
 3. [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) (Uninstaller)
 4. [Chrome Remote Desktop](https://remotedesktop.google.com/) (for remote access)
@@ -211,13 +213,24 @@ description: >-
 12. [Microsoft Office](https://www.office.com/) (Productivity Suite)
 13. [Obsidian](https://obsidian.md/) (Note-taking)
 14. [PDF Gear](https://pdfgear.com/) (PDF Reader)
-15. [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) (System Utilities)
-16. [Python](https://www.python.org/) (Programming Language)
-17. [QuickLook](https://pooi.moe/QuickLook/) (File Preview)
-18. [Stardock Fences](https://www.stardock.com/products/fences/) (Desktop Organization)
-19. [Sumatra PDF](https://www.sumatrapdfreader.org/) (PDF Reader)
-20. [Winfsp](https://winfsp.dev/) (File System Proxy)
-21. [WinSetView](https://github.com/LesFerch/WinSetView) (File Explorer Settings)
+15. [PotPlayer ](https://potplayer.daum.net/)(Media Player for m3u8)
+16. [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) (System Utilities)
+17. [Python](https://www.python.org/) (Programming Language)
+18. [QuickLook](https://pooi.moe/QuickLook/) (File Preview)
+19. [Stardock Fences](https://www.stardock.com/products/fences/) (Desktop Organization)
+20. [Sumatra PDF](https://www.sumatrapdfreader.org/) (PDF Reader)
+21. [Winfsp](https://winfsp.dev/) (File System Proxy)
+22. [WinSetView](https://github.com/LesFerch/WinSetView) (File Explorer Settings)
+
+<details>
+
+<summary>Test <a href="https://www.google.com">link</a></summary>
+
+hi test
+
+</details>
+
+
 
 ***
 
