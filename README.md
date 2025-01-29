@@ -18,7 +18,7 @@ description: >-
    * [Ghost Toolbox Utilities](./#id-13-ghost-toolbox-utilities)
 2. [Setting Up Software](./#id-2-setting-up-software)
 
-* &#x20;[Installing from Ghost Toolbox](./#id-2.1-installing-from-ghost-toolbox)
+* [Installing from Ghost Toolbox](./#id-2.1-installing-from-ghost-toolbox)
 * [Installing from Microsoft Store](./#id-2.2-installing-from-microsoft-store)
 * [Installing from Other Sources](./#id-2.3-installing-from-other-sources)
 * [Customizing Software Settings](./#id-2.4-customizing-software-settings)
@@ -210,7 +210,7 @@ description: >-
 
 ### <mark style="color:green;">2.3 - Installing from Other Sources</mark>
 
-1. [Adb App Control](https://adbappcontrol.com/en/#download) (removing bloatware from mobile)&#x20;
+1. [Adb App Control](https://adbappcontrol.com/en/#download) (removing bloatware from mobile)
 2. [Anydesk](https://anydesk.com/) (for remote access)
 3. [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) (Custom Windows Cursor)
 4. [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) (Uninstaller)
@@ -240,24 +240,14 @@ description: >-
 ### <mark style="color:green;">2.4 - Customizing Software Settings</mark>
 
 > _Most software settings are user-specific and straightforward to configure. Detailed setup instructions can typically be found on the respective software's official website._
-
-
-
-<details>
-
-<summary>Notpad</summary>
-
-</details>
+>
+> _while installing mod software, first disable all settings of virus & threat protection_
 
 <details>
 
-<summary></summary>
+<summary>Telegram</summary>
 
-</details>
-
-<details>
-
-<summary></summary>
+* Settings -> Advanced Settings -> Ask Path to Download
 
 </details>
 
@@ -265,17 +255,129 @@ description: >-
 
 <summary>Notpad</summary>
 
-</details>
-
-<details>
-
-<summary></summary>
+* Settings -> Opening Notpad ->  When Notpad Starts -> start new session & discard unsaved changes
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Nanazip</summary>
+
+<img src="https://i.imgur.com/nQrwqrb.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>Sharex</summary>
+
+* Settings -> Application Settings -> Settings -> Import [this](https://cdn.jsdelivr.net/gh/mlwbd/Zahid-Windows-Setup@main/Windows%20App%20Settings/ShareX-17.0.0-backup.sxb)
+* Change Screenshot Folders to Pictures
+* Add Shortcut to Desktop
+
+</details>
+
+<details>
+
+<summary>Everything</summary>
+
+* Set new window hotkey to `ctrl + space`&#x20;
+* set view to large files for better view
+* paste [this ](https://cdn.jsdelivr.net/gh/mlwbd/Zahid-Windows-Setup@main/Windows%20App%20Settings/Everything.ini)file to _%APPDATA%\Everything_
+
+</details>
+
+<details>
+
+<summary>IDM</summary>
+
+* Use[ IDM Backup Manager](https://www.softpedia.com/get/PORTABLE-SOFTWARE/System/Backup-and-Recovery/Portable-IDM-Backup-Manager.shtml#download) for backup-restore settings
+* Use [this ](https://raw.githubusercontent.com/mlwbd/Zahid-Windows-Setup/refs/heads/main/Windows%20App%20Settings/IDM_6.4x_Crack_v19.7.exe)tool by Ali.dbg to update and other utility
+* Downloads -> Option -> Connection -> Max Connection = 2
+
+</details>
+
+<details>
+
+<summary>Obsidian</summary>
+
+* Just keep the  `.obsidian/` folder same across devices it will bring all settings with notes and with extensions. and extension setup is available on there respective github page.
+* for more obsidian setup visit this [Youtube Channel](https://youtu.be/rAkerV8rlow?si=_ZqKoBLCcc8sHTdo) & his [Github](https://github.com/CyanVoxel?tab=repositories).
+* download my [obsidian folder ](https://raw.githubusercontent.com/mlwbd/Zahid-Windows-Setup/refs/heads/main/Windows%20App%20Settings/obsidian-backup.7z)zip , it does not contain data.json for google drive sync plugin
+* [checkout ](https://github.com/stravo1/obsidian-gdrive-sync)how to setup google drive plugin
+
+<img src="https://i.imgur.com/EuY5red.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>Powertoys</summary>
+
+* Just turn on apps which you will need
+* File Locksmith & Power Renamer
+
+</details>
+
+<details>
+
+<summary>Qbittorent</summary>
+
+* Turn of seeding after complete download and remove the file from the list
+
+</details>
+
+<details>
+
+<summary>Quickshare</summary>
+
+* Download directory to Desktop
+
+</details>
+
+<details>
+
+<summary>Quicklook</summary>
+
+* Install [Plugins](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins)
+
+</details>
+
+<details>
+
+<summary>Stardock Fences</summary>
+
+* How to [backup & Restore](https://support.stardock.com/space/SHC/1416429609/Backup+of+Fences+Configuration+Settings)
+* Restore HKCU & HKLM [registry entries](https://raw.githubusercontent.com/mlwbd/Zahid-Windows-Setup/main/Windows%20App%20Settings/Fences%20Registry.7z) .
+
+</details>
+
+<details>
+
+<summary>Sumatra PDF</summary>
+
+* Settings -> Advanced Options -> Paste All content from [this ](https://raw.githubusercontent.com/mlwbd/Zahid-Windows-Setup/refs/heads/main/Windows%20App%20Settings/SumatraPDF-settings.txt)& Save.
+
+</details>
+
+<details>
+
+<summary>Winfsp</summary>
+
+* Download [Rclone](https://rclone.org/downloads/) & setup google drive with onscreen prompts ([get help](https://rclone.org/drive/)).
+* Create Rclone config by opening CMD at `C:\Users\Zahid\Downloads\Programs\rclone-v1.67.0-windows-amd64`
+* Mount rclone by opening cmd at same location/config location and type&#x20;
+* `rclone mount gtb: X:`
+
+</details>
+
+<details>
+
+<summary>Winsetview</summary>
+
+* I prefer tiles view, sort by name & group none.
+* Download [this ](https://raw.githubusercontent.com/mlwbd/Zahid-Windows-Setup/refs/heads/main/Windows%20App%20Settings/Backup-Winsetview.7z)registry -> place it to `C:\Users\Zahid\AppData\Roaming\WinSetView\Backup`
+* &#x20;Restore through app.
 
 </details>
 
